@@ -1,6 +1,6 @@
 ## Overview 
 客户端项目请查看：
-https://github.com/zhaojunlike/vue-scrum-task-client
+https://github.com/kidalsama/vue-scrum-task-client
 
 ### Containers
 -   1.nginx
